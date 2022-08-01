@@ -3,6 +3,8 @@ An implementation of the transformer quantum state (TQS), a multi-purpose model 
 
 Paper appearing soon! 
 
+This repository contains code adapted from the [official PyTorch repository](https://github.com/pytorch/pytorch) and [autograd-hacks](https://github.com/cybertronai/autograd-hacks). Special thanks to the open-source community! 
+
 A pre-trained model for the transverse field Ising Hamiltonian is provided. By customizing the code, you can also train your own model on different Hamiltonians. 
 
 Requirements: PyTorch, TeNPy (for DMRG simulations), SciPy>=1.7.1 (for predicting parameters)
