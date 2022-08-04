@@ -1,7 +1,7 @@
 # Transformer Quantum State
 An implementation of the transformer quantum state (TQS), a multi-purpose model for quantum many-body problems. Contains everything necessary to reproduce the results in our paper.
 
-Paper appearing soon! 
+arXiv link: [arXiv:2208.01758](https://arxiv.org/abs/2208.01758)
 
 This repository contains code adapted from the [official PyTorch repository](https://github.com/pytorch/pytorch) and [autograd-hacks](https://github.com/cybertronai/autograd-hacks). Special thanks to the open-source community! 
 
