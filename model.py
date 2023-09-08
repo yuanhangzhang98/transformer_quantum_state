@@ -14,7 +14,8 @@ import torch.nn as nn
 import torch.nn.functional as F
 from pos_encoding import TQSPositionalEncoding1D, TQSPositionalEncoding2D
 from model_utils import sample, sample_without_weight
-from custom_transformer_layer import TransformerEncoderLayer
+from torch.nn import TransformerEncoderLayer
+# from custom_transformer_layer import TransformerEncoderLayer
 
 pi = np.pi
 
